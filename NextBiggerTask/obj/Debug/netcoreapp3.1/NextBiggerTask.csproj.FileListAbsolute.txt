@@ -1,0 +1,9 @@
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.deps.json
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.dll
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\bin\Debug\netcoreapp3.1\NextBiggerTask.pdb
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.AssemblyInfoInputs.cache
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.AssemblyInfo.cs
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.csproj.CoreCompileInputs.cache
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.dll
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.pdb
+D:\projects\epam\net_basics\next-bigger\NextBiggerTask\obj\Debug\netcoreapp3.1\NextBiggerTask.csprojAssemblyReference.cache
